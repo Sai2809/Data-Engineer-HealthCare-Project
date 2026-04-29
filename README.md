@@ -135,7 +135,3 @@ python -m spacy download en_core_web_sm
 
 ---
 
-## Academic Context
-
-MBA Capstone Project - Text & Web Analytics
-April 2026
